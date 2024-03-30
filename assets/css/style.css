@@ -791,8 +791,7 @@ section {
 
 #footer .footer-top .footer-info p {
   font-size: 14px;
-  line-height: 24px;
-  margin-bottom: 0;
+  margin-bottom: 8px;
   font-family: "Raleway", sans-serif;
   color: #576971;
 }
